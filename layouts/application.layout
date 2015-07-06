@@ -89,7 +89,7 @@
             imagePath: '//cdn.jsdelivr.net/jquery.jreject/1.0.2/images/'
         });      
     });
-    setEndPoint('http://westside.mallmaverick.com/api/v2/westside/all.json');
+    setEndPoint('http://westmountplace.mallmaverick.com/api/v2/westmountplace/all.json');
     sessionStorage.setItem('primary_locale', 'en-CA');
     sessionStorage.setItem('secondary_locale', 'fr-CA');
 </script>
