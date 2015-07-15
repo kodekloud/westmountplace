@@ -352,7 +352,7 @@ background-color: #FFFFFF ;
                     
                     
                     if ((val.store_front_url).indexOf('missing.png') > -1){
-                        val.alt_store_front_url = "http://assets.kodekloud.io/sites/5564befa6e6f640f57000000/db9346412a4048f345511cf51111c59f/default (1).jpg"
+                        val.alt_store_front_url = "http://assets.kodekloud.io/sites/559adf766e6f646e3d010000/88342bf1570373ae0dd56a3e0de87b11/default.jpg"
                     } else {
                         val.alt_store_front_url = getImageURL(val.store_front_url); 
                     }
